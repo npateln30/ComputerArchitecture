@@ -6,4 +6,5 @@ practice-midterm.pdf
 **/data
 **/tests
 autograde.py
+autograde.pyc
 grader.py
