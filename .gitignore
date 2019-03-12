@@ -1,0 +1,9 @@
+.DS_Store
+asdf.txt
+finalTopics.txt
+lectures
+practice-midterm.pdf
+**/data
+**/tests
+autograde.py
+grader.py
